@@ -1,1 +1,26 @@
 @charset "utf-8";
+
+
+/*
+Botões -- tela princiapl
+*/
+.button img{
+    margin: 50px 15px 25px 15px;
+    padding: 5px;
+    border: 1px solid  #e8e8e8e8;
+    cursor: pointer;
+}
+
+footer {
+    background-color: rgb(150, 154, 206);
+    color: rgb(0, 0, 0);
+    
+
+}
+  
+footer p{
+        text-align: center;
+        padding-left: 20px;
+        margin-top: 130px;
+        font-size: 15px;
+}
